@@ -1,4 +1,4 @@
-ssh user_name@ip_address
+ssh adming@192.168.0.102
 #!/bin/bash
 hostname
 sleep 5
