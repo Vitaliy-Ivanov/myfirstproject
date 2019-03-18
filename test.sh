@@ -4,7 +4,7 @@ pipeline {
         stage('build') {
             steps {
                 sh '''
-                ssh adming@192.168.0.102       
+                ssh adming@192.168.0.101       
                 hostname
                 '''
             }
