@@ -10,7 +10,7 @@ pipeline {
                 
                 uptime
                 sleep 5
-                whoiam
+                sh 'whoiam'
                 sleep 5
                 
                 '''
